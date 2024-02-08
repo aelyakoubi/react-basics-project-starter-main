@@ -8,5 +8,9 @@ Logic: Routes, Middleware, Errorhandling
 
 Set up:
 ```npm install, npm run dev```
------------------------------------------------------
+------------------------------------------------------
+![React basics 02](https://github.com/aelyakoubi/react-basics-project-starter-main/assets/115151631/db82b778-dea5-4a36-8e27-76c3472bd856)
+------------------------------------------------------
+
 ![React basics 00](https://github.com/aelyakoubi/react-basics-project-starter-main/assets/115151631/4ae1c5e7-898a-4443-a07c-872477566f69)
+![React basics 01](https://github.com/aelyakoubi/react-basics-project-starter-main/assets/115151631/0bbaf9fc-6a0d-4d04-b77c-f0512025c017)
